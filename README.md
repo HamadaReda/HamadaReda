@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m a Full Stack Web Developer specializing in Java & Spring Boot on the backend and modern JavaScript frameworks like Angular and React on the frontend.<br>I build scalable, secure, and maintainable web applications with clean architecture and high-quality code.<br><br>My journey started by working with several technologies across the stack including HTML, CSS, Bootstrap, Tailwind, JavaScript, and frameworks like React, Angular, Laravel, and the MERN stack. Thanks to this diverse background, I can design and implement complete solutions from UI/UX to backend APIs and database modeling.<br><br>On the backend, I focus on Java, Spring Boot, RESTful APIs, JPA/Hibernate, and SQL/NoSQL databases such as MySQL, SQL Server, Oracle, and MongoDB. I have hands-on experience building authentication systems, dashboards, business logic layers, and fully integrated APIs.<br><br>I’m proficient in Git & GitHub, Docker, and follow Agile practices using tools like Jira to ensure smooth delivery and clean project structure.<br><br>I’m committed to continuous learning and improving my skills in problem-solving, data structures & algorithms, object-oriented programming, system design, and professional communication.<br>My goal is to become a highly skilled Full Stack Java Developer capable of building enterprise-level applications.
+I am a Full Stack Web Developer specializing in Java and Spring Boot for backend development, with some experience in React and Angular. I build scalable, secure, and maintainable web applications with clean architecture and high-quality code.
+
+I have worked with core web technologies like HTML, CSS, Bootstrap, Tailwind, and JavaScript, and I can implement complete solutions from backend APIs to database modeling.
+
+On the backend, I focus on Java, Spring Boot, RESTful APIs, JPA/Hibernate, and SQL/NoSQL databases including MySQL, SQL Server, Oracle, and MongoDB. I have hands-on experience building authentication systems, dashboards, business logic layers, and fully integrated APIs.
+
+I am familiar with Git, GitHub, and Docker, and follow Agile practices using Jira for structured project delivery. I am committed to continuous learning in problem-solving, data structures & algorithms, object-oriented programming, system design, and professional communication.
+
+My goal is to become a highly skilled Full Stack Java Developer capable of building enterprise-level applications.
 
 
 ## 🌐 Socials:
